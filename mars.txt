@@ -1,4 +1,5 @@
-Mars is the 4th planet from the Sun, after Earth. It is hot, dry and red.
+Adding this so we get a conflict
+I hate GitHub conflicts
 Mars has ten moons
 Mars may have ice
 Adding this so we get a conflict
